@@ -1,0 +1,7 @@
+{
+  "product": "ExampleProduct",
+  "usbSerial": "EXAMPLE_USB_SERIAL_12345",
+  "expires": "2025-12-31T23:59:59Z",
+  "signature": "BASE64_ENCODED_SIGNATURE_WILL_BE_HERE"
+}
+
